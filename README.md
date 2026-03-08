@@ -1,2 +1,3 @@
-This is a repository.
-I will backup every single code file since Mar/8/2026.
+这是我建立的第一个Github仓库
+我将会在这里备份 自从2026/3/8起的所有算法练习代码
+Special Thanks to Gemini.
